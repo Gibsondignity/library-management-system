@@ -7,7 +7,7 @@ This is a simple library management system built for Major Project 2021 by Abhik
 This project is built with :
 
 ![HTML5](https://www.w3.org/html/logo/downloads/HTML5_Logo_64.png) , ![CSS3](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/48px-CSS3_logo_and_wordmark.svg.png) , ![Vanilla JS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/64px-Unofficial_JavaScript_logo_2.svg.png) , ![Python](https://www.quintagroup.com/++theme++quintagroup-theme/images/logo_python_section.png) , ![Django](https://www.quintagroup.com/++theme++quintagroup-theme/images/logo_django_section.png) ,
-<img alt="Tailwind CSS" width="350" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg" />
+
 
 ---
 
@@ -120,51 +120,4 @@ We run a for loop and pass all the issues to this calculate fine function. Then:
 - we verify the payment status whether success or failure
 - then payment is (successfull/failure) message is shown on myfine page with (paid status / pay button) beside that fine
 
-## Screenshots
 
-- Signup Page
-  ![login](./screenshots/signup.png)
-- Login Page
-  ![login](./screenshots/login.png)
-- If Student ID already signed up
-  ![signup](./screenshots/signup-same-id.png)
-
-- Home Page for student
-  ![homepage](./screenshots/homepage-student.png)
-- Search Book
-  ![search-book](./screenshots/search-book.png)
-- Search Author
-  ![search-author](./screenshots/search-author.png)
-
-- My Issues
-  ![myissues](./screenshots/myissues.png)
-- My Fines
-  ![myfines](./screenshots/myfines.png)
-- Confirm Payment
-  ![paymentmode](./screenshots/confirmpayment.png)
-- Choose Payment Modes
-  ![paymentmode](./screenshots/choospaymode.png)
-- Pay Success
-  ![paymentmode](./screenshots/paysuccess.png)
-
-- Admin Dashboard
-  ![admin](./screenshots/admin-dashboard-home.png)
-
-- All Books (Admin)
-  ![allbooks](./screenshots/allbooks.png)
-
-- All issues , can be filtered ,searched (Admin)
-  ![allissues](./screenshots/all-issues.png)
-- Requested Issues (Admin)
-  ![allissues](./screenshots/issue-requests.png)
-
-- All fines , can be filtered ,searched (Admin)
-  ![allfines](./screenshots/allfines.png)
-
-- All Students , can be filtered ,searched (Admin)
-  ![allstudents](./screenshots/all-students.png)
-- Student Details (Admin)
-  ![student-details](./screenshots/student-details.png)
-- User Details (Admin)
-  ![student-details](./screenshots/user-details.png)
-  19
